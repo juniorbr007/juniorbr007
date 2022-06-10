@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Batista</h1>
-<h3 align="center">Sou desenvolvedor Frontend e moro em Pernambuco e bem vindo a minha BIO !</h3>
+<h3 align="center">Sou desenvolvedor Frontend, moro em Pernambuco e bem vindo a minha BIO !</h3>
 
 - 🔭 I’m currently working on [AjudaAi](https://github.com/juniorbr007/AjudaAi)
 
