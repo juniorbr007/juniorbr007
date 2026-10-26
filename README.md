@@ -26,11 +26,14 @@ e NFS-e, confirmações pelo WhatsApp e manual com vídeos.
 
 👉 [Ver a demonstração ao vivo](https://molara.com.br/demo) · [Testar grátis](https://molara.com.br/teste-gratis) <sub>(código privado)</sub>
 
-### 🩺 [Triagem clínica — mestrado](https://github.com/juniorbr007/triagem-clinica-mestrado)
-Sistema especialista **interpretável** para triagem clínica no SUS, com Angular, Firebase e TensorFlow.js.
+### 🎯 [Cypher's Edge](https://github.com/juniorbr007/Valorant-Project) — análise de performance em jogos competitivos
+Plataforma de dados que extrai insights táticos e de desempenho de partidas de **Valorant** e **League of Legends**.
 
-### 📊 [Clusterização de acidentes da PRF (PE)](https://github.com/juniorbr007/Clusterizacao_prf)
-Análise e agrupamento de dados de acidentes em rodovias de Pernambuco (Python / Jupyter).
+👉 [Acessar a aplicação online](https://valorant-frontend.onrender.com/)
+
+### 🥕 [EcoHorta](https://github.com/juniorbr007/Orta) — aplicativo mobile para hortas
+App para educadores, alunos e entusiastas montarem uma horta do zero, da escolha do local até a colheita.
+<br><sub>React Native (Expo) · Firebase Firestore</sub>
 
 ---
 
