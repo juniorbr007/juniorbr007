@@ -26,10 +26,13 @@ e NFS-e, confirmações pelo WhatsApp e manual com vídeos.
 
 👉 [Ver a demonstração ao vivo](https://molara.com.br/demo) · [Testar grátis](https://molara.com.br/teste-gratis) <sub>(código privado)</sub>
 
-### 🎯 [Cypher's Edge](https://github.com/juniorbr007/Valorant-Project) — análise de performance em jogos competitivos
-Plataforma de dados que extrai insights táticos e de desempenho de partidas de **Valorant** e **League of Legends**.
-
-👉 [Acessar a aplicação online](https://valorant-frontend.onrender.com/)
+### 🪑 [GestorMóveis](https://github.com/juniorbr007/GestorMoveis) — gestão completa para movelarias
+ERP web (PWA) para fábricas de móveis, do pedido à entrega:
+- **Comercial**: clientes, orçamentos, pedidos e catálogo de produtos
+- **Produção**: MRP, ordens de produção, painel do operador, estoque de produtos e de matéria-prima
+- **Financeiro**: fluxo de caixa, contas a pagar, gastos fixos, cheques, inadimplência e notas fiscais
+- **Gestão**: fornecedores e compras, funcionários, frota, relatórios, backup e assinatura de documentos
+<br><sub>Angular · Angular Material · Firebase · Cloud Functions · PWA · jsPDF · testes com Cypress e Playwright</sub>
 
 ### 🥕 [EcoHorta](https://github.com/juniorbr007/Orta) — aplicativo completo para hortas escolares
 App mobile (Android e iOS) que guia escolas em todas as fases de uma horta, da escolha do local até a colheita:
