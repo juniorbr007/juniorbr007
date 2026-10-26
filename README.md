@@ -31,9 +31,13 @@ Plataforma de dados que extrai insights táticos e de desempenho de partidas de 
 
 👉 [Acessar a aplicação online](https://valorant-frontend.onrender.com/)
 
-### 🥕 [EcoHorta](https://github.com/juniorbr007/Orta) — aplicativo mobile para hortas
-App para educadores, alunos e entusiastas montarem uma horta do zero, da escolha do local até a colheita.
-<br><sub>React Native (Expo) · Firebase Firestore</sub>
+### 🥕 [EcoHorta](https://github.com/juniorbr007/Orta) — aplicativo completo para hortas escolares
+App mobile (Android e iOS) que guia escolas em todas as fases de uma horta, da escolha do local até a colheita:
+- **Perfis de Professor e Aluno**: o professor cria os *canteiros de turma* e vincula os alunos, que acompanham tudo
+- **Diário de plantio**: semeadura, transplante e irrigação em cada fase do ciclo das hortaliças
+- **Conteúdo didático**: localização, preparo do solo, hortaliças indicadas e técnicas de plantio
+- **Guia de colheita e armazenamento** por categoria (folhosas, raízes, frutos)
+<br><sub>React Native (Expo) · Firebase Auth · Cloud Firestore em tempo real</sub>
 
 ---
 
