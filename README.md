@@ -42,7 +42,7 @@ App para educadores, alunos e entusiastas montarem uma horta do zero, da escolha
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap,firebase,nodejs&perline=10" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,java,postgres,mysql,git,github,githubactions,unity,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,python,tensorflow,java,postgres,mysql,git,github,githubactions,unity,vscode&perline=11" />
 </p>
 
 ## 📈 Estatísticas
